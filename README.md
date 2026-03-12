@@ -11,7 +11,7 @@
 <br/><br/>
 
 ![Alternance](https://img.shields.io/badge/🎯_Alternance-Sept._2026-22C55E?style=for-the-badge&labelColor=0d1117)
-![Master](https://img.shields.io/badge/🎓_Master_Cybersécurité-RNCP_Niv.7-38BDF8?style=for-the-badge&labelColor=0d1117)
+
 
 </div>
 
