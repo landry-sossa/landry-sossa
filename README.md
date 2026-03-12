@@ -1,51 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0f2027,70:1a3a4a,100:2c5364&height=220&section=header&text=Landry%20SOSSA&fontSize=65&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Sysadmin%20%E2%80%A2%20Cloud%20%E2%80%A2%20SOC&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0f2027,70:1a3a4a,100:2c5364&height=220&section=header&text=Landry%20SOSSA&fontSize=65&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Sysadmin%20%E2%80%A2%20Infrastructure%20Cloud%20%E2%80%A2%20S%C3%A9curit%C3%A9&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=🖥️+Passionné+de+Linux+%26+Systèmes;☁️+En+route+vers+le+Cloud+%26+Azure;🔍+Je+construis+mon+chemin+vers+le+SOC;⚙️+J%27automatise%2C+je+sécurise%2C+j%27apprends" alt="Typing SVG" />
+<!-- TYPING SVG — version alternative plus fiable -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%96%A5%EF%B8%8F+Passionn%C3%A9+de+Linux+%26+Syst%C3%A8mes;%E2%98%81%EF%B8%8F+En+route+vers+le+Cloud+%26+Azure;%F0%9F%94%8D+Je+construis+mon+chemin+vers+la+s%C3%A9curit%C3%A9;%E2%9A%99%EF%B8%8F+J%27automatise%2C+je+s%C3%A9curise%2C+j%27apprends)](https://git.io/typing-svg)
 
 <br/><br/>
 
 ![Alternance](https://img.shields.io/badge/🎯_Alternance-Sept._2026-22C55E?style=for-the-badge&labelColor=0d1117)
-
+![Master](https://img.shields.io/badge/🎓_Master_Cybersécurité-RNCP_Niv.7-38BDF8?style=for-the-badge&labelColor=0d1117)
 
 </div>
-
-<br/>
 
 ---
 
 ## 🧑‍💻 Qui suis-je ?
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<br/>
+
+🖥️ &nbsp;**Linux** m'a appris à penser.
+
+⚙️ &nbsp;**Les systèmes** m'ont appris à construire.
+
+🔒 &nbsp;**La sécurité** m'a appris à ne jamais faire confiance par défaut.
+
+☁️ &nbsp;**Le cloud** m'apprend à construire grand.
+
+<br/>
 
 ```bash
 $ whoami
-> Landry SOSSA
-
-$ cat passion.txt
-> Linux m'a appris à penser.
-> Les systèmes m'ont appris à construire.
-> La sécurité m'a appris à ne jamais
-> faire confiance par défaut.
+> Landry SOSSA — Sysadmin · Infrastructure Cloud · Sécurité
 
 $ cat objectifs.txt
-> 🖥️  Sysadmin Linux — ma base, mon terrain
-> ☁️  Cloud Infrastructure   — là où je construis demain
-> 🔍  SOC & Détection — ce qui me fascine
+> 🖥️  Sysadmin         — Linux, Windows, automatisation
+> ☁️  Infra Cloud      — Azure, hybride, scalable
+> 🔍  Sécurité         — conformité, détection, SOC
 ```
 
 <br clear="right"/>
-
-Je suis passionné par **trois domaines** qui, pour moi, se complètent naturellement :
-
-> 🖥️ **Administration Système** — Linux au cœur, automatisation, hardening, infrastructure solide et fiable.
->
-> ☁️ **Cloud** — Je me forme activement sur Azure et les architectures cloud-native. Construire des infras scalables, c'est là où je veux aller.
->
-> 🔍 **SOC & Détection** — L'analyse de logs, la détection d'intrusion, comprendre ce qui se passe sur un système — c'est ce qui me fascine côté défensif.
 
 ---
 
@@ -94,9 +92,6 @@ Je suis passionné par **trois domaines** qui, pour moi, se complètent naturell
 | | Projet | Ce que j'explore | Stack |
 |:-:|--------|-----------------|-------|
 | 🖥️ | [**compliance-as-code**](https://github.com/landry-sossa/compliance-as-code) | Automatiser la conformité CIS sur Linux — parce qu'un audit ne devrait pas se faire à la main | `OpenSCAP` `Bash` `Debian` |
-> | 🛡️ | [**hardening-debian**](https://github.com/landry-sossa/hardening-debian) | Durcir un serveur Debian de A à Z — CIS Benchmark niveau 1 & 2 | `Ansible` `Debian` `CIS` |
-> | 🔍 | [**soc-lab-wazuh**](https://github.com/landry-sossa/soc-lab-wazuh) | Construire un mini-SOC en lab — détection, alertes, analyse de logs | `Wazuh` `ELK` `Linux` |
-> | ☁️ | [**azure-homelab**](https://github.com/landry-sossa/azure-homelab) | Expérimenter le cloud : infra Azure, IaC, sécurité cloud-native | `Azure` `Terraform` `Bash` |
 
 </div>
 
