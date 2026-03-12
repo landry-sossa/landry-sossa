@@ -33,7 +33,7 @@ $ cat passion.txt
 
 $ cat objectifs.txt
 > 🖥️  Sysadmin Linux — ma base, mon terrain
-> ☁️  Cloud Azure   — là où je construis demain
+> ☁️  Cloud Infrastructure   — là où je construis demain
 > 🔍  SOC & Détection — ce qui me fascine
 ```
 
@@ -94,9 +94,9 @@ Je suis passionné par **trois domaines** qui, pour moi, se complètent naturell
 | | Projet | Ce que j'explore | Stack |
 |:-:|--------|-----------------|-------|
 | 🖥️ | [**compliance-as-code**](https://github.com/landry-sossa/compliance-as-code) | Automatiser la conformité CIS sur Linux — parce qu'un audit ne devrait pas se faire à la main | `OpenSCAP` `Bash` `Debian` |
-| 🛡️ | [**hardening-debian**](https://github.com/landry-sossa/hardening-debian) | Durcir un serveur Debian de A à Z — CIS Benchmark niveau 1 & 2 | `Ansible` `Debian` `CIS` |
-| 🔍 | [**soc-lab-wazuh**](https://github.com/landry-sossa/soc-lab-wazuh) | Construire un mini-SOC en lab — détection, alertes, analyse de logs | `Wazuh` `ELK` `Linux` |
-| ☁️ | [**azure-homelab**](https://github.com/landry-sossa/azure-homelab) | Expérimenter le cloud : infra Azure, IaC, sécurité cloud-native | `Azure` `Terraform` `Bash` |
+> | 🛡️ | [**hardening-debian**](https://github.com/landry-sossa/hardening-debian) | Durcir un serveur Debian de A à Z — CIS Benchmark niveau 1 & 2 | `Ansible` `Debian` `CIS` |
+> | 🔍 | [**soc-lab-wazuh**](https://github.com/landry-sossa/soc-lab-wazuh) | Construire un mini-SOC en lab — détection, alertes, analyse de logs | `Wazuh` `ELK` `Linux` |
+> | ☁️ | [**azure-homelab**](https://github.com/landry-sossa/azure-homelab) | Expérimenter le cloud : infra Azure, IaC, sécurité cloud-native | `Azure` `Terraform` `Bash` |
 
 </div>
 
