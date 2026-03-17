@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER ANIMÉ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0f2027,70:1a3a4a,100:2c5364&height=220&section=header&text=Landry%20SOSSA&fontSize=65&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Sysadmin%20%E2%80%A2%20Infrastructure%20Cloud%20%E2%80%A2%20S%C3%A9curit%C3%A9&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0f2027,70:1a3a4a,100:2c5364&height=220&section=header&text=Landry%20SOSSA&fontSize=65&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Sysadmin%20%E2%80%A2%20Infrastructure%20systeme%20%E2%80%A2%20S%C3%A9curit%C3%A9&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -28,17 +28,17 @@
 
 🔒 &nbsp;**La sécurité** m'a appris à ne jamais faire confiance par défaut.
 
-☁️ &nbsp;**Le cloud** m'apprend à construire grand.
+☁️ &nbsp;**Le cloud** m'apprend à construire grand, les objectifs de demain.
 
 <br/>
 
 ```bash
 $ whoami
-> Landry SOSSA — Sysadmin · Infrastructure Cloud · Sécurité
+> Landry SOSSA — Sysadmin · Infrastructure · Sécurité
 
 $ cat objectifs.txt
 > 🖥️  Sysadmin         — Linux, Windows, automatisation
-> ☁️  Infra Cloud      — Azure, hybride, scalable
+> ☁️  Infra            — virtualisation, on-premise, Azure, hybride, scalable
 > 🔍  Sécurité         — conformité, détection, SOC
 ```
 
