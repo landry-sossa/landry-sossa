@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- BANNER -->
+<!-- BANNER ANIMÉ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0f2027,70:1a3a4a,100:2c5364&height=220&section=header&text=Landry%20SOSSA&fontSize=65&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Sysadmin%20%E2%80%A2%20Infrastructure%20Cloud%20%E2%80%A2%20S%C3%A9curit%C3%A9&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- TYPING SVG — version alternative plus fiable -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%96%A5%EF%B8%8F+Passionn%C3%A9+de+Linux+%26+Syst%C3%A8mes;%E2%98%81%EF%B8%8F+En+route+vers+le+Cloud+%26+Azure;%F0%9F%94%8D+Je+construis+mon+chemin+vers+la+s%C3%A9curit%C3%A9;%E2%9A%99%EF%B8%8F+J%27automatise%2C+je+s%C3%A9curise%2C+j%27apprends)](https://git.io/typing-svg)
 
 <br/><br/>
@@ -17,7 +16,7 @@
 
 ---
 
-## 🧑‍💻 Qui suis-je ?
+
 
 <img align="right" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -87,11 +86,12 @@ $ cat objectifs.txt
 
 <div align="center">
 
-> 💡 *Ce que je construis pour apprendre, expérimenter, et progresser.*
+
 
 | | Projet | Ce que j'explore | Stack |
 |:-:|--------|-----------------|-------|
-| 🖥️ | [**compliance-as-code**](https://github.com/landry-sossa/compliance-as-code) | Automatiser la conformité CIS sur Linux — parce qu'un audit ne devrait pas se faire à la main | `OpenSCAP` `Bash` `Debian` |
+|  | [**homelab-proxmox**](https://github.com/landry-sossa/homelab-proxmox) | Infrastructure virtualisée complète sur serveur physique — Proxmox, OPNsense, Active Directory, segmentation réseau | `Proxmox` `OPNsense` `Windows Server` `AD DS` |
+
 
 </div>
 
@@ -99,7 +99,7 @@ $ cat objectifs.txt
 
 <div align="center">
 
-### 💬 *"La sécurité n'est pas un produit, c'est un processus."*
+###  *"La sécurité n'est pas un produit, c'est un processus."*
 *— Bruce Schneier*
 
 <br/>
