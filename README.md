@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%96%A5%EF%B8%8F+Passionn%C3%A9+de+Linux+%26+Syst%C3%A8mes;%E2%98%81%EF%B8%8F+En+route+vers+le+Cloud+%26+Azure;%F0%9F%94%8D+Je+construis+mon+chemin+vers+la+s%C3%A9curit%C3%A9;%E2%9A%99%EF%B8%8F+J%27automatise%2C+je+s%C3%A9curise%2C+j%27apprends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%96%A5%EF%B8%8F+Passionn%C3%A9+de+Linux+%26+Syst%C3%A8mes;%E2%98%81%EF%B8%8F+En+route+vers+le+Cloud;%F0%9F%94%8D+Je+construis+mon+chemin+vers+la+s%C3%A9curit%C3%A9;%E2%9A%99%EF%B8%8F+J%27automatise%2C+je+s%C3%A9curise%2C+j%27apprends)](https://git.io/typing-svg)
 
 <br/><br/>
 
@@ -91,6 +91,7 @@ $ cat objectifs.txt
 | | Projet | Ce que j'explore | Stack |
 |:-:|--------|-----------------|-------|
 |  | [**homelab-proxmox**](https://github.com/landry-sossa/homelab-proxmox) | Infrastructure virtualisée complète sur serveur physique — Proxmox, OPNsense, Active Directory, segmentation réseau | `Proxmox` `OPNsense` `Windows Server` `AD DS` |
+| | [**vpn-wireguard-opnsense**](https://github.com/landry-sossa/vpn-wireguard-opnsense) | Accès distant sécurisé au homelab via VPN WireGuard — split tunneling, DDNS, règles firewall automatisées avec Ansible | `WireGuard` `OPNsense` `Ansible` `DDNS` |
 
 
 </div>
