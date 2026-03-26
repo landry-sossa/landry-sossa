@@ -9,14 +9,11 @@
 
 <br/><br/>
 
-![Alternance](https://img.shields.io/badge/🎯_Alternance-Sept._2026-22C55E?style=for-the-badge&labelColor=0d1117)
-
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Voir_mes_projets-00d4ff?style=for-the-badge&labelColor=0d1117)](https://landry-sossa.github.io)
 
 </div>
 
 ---
-
-
 
 <img align="right" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -38,7 +35,7 @@ $ whoami
 
 $ cat objectifs.txt
 > 🖥️  Sysadmin         — Linux, Windows, automatisation
-> ☁️  Infra            — virtualisation, on-premise, Azure, hybride, scalable
+> ☁️  Infra            — virtualisation, on-premise, cloud, hybride
 > 🔍  Sécurité         — conformité, détection, SOC
 ```
 
@@ -46,53 +43,14 @@ $ cat objectifs.txt
 
 ---
 
-## 🛠️ Stack Technique
+## 📁 Projets
 
 <div align="center">
-
-### 🖥️ Systèmes & Virtualisation
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox_HA-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### 🚀 Conteneurisation & CI/CD
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🔒 Sécurité & Conformité
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![OpenSCAP](https://img.shields.io/badge/OpenSCAP-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
-![ModSecurity](https://img.shields.io/badge/WAF_ModSecurity-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🌐 Réseau & Stockage
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Veeam](https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
----
-
-## 📁 Mes Projets
-
-<div align="center">
-
-
 
 | | Projet | Ce que j'explore | Stack |
 |:-:|--------|-----------------|-------|
-|  | [**homelab-proxmox**](https://github.com/landry-sossa/homelab-proxmox) | Infrastructure virtualisée complète sur serveur physique — Proxmox, OPNsense, Active Directory, segmentation réseau | `Proxmox` `OPNsense` `Windows Server` `AD DS` |
-| | [**vpn-wireguard-opnsense**](https://github.com/landry-sossa/vpn-wireguard-opnsense) | Accès distant sécurisé au homelab via VPN WireGuard — split tunneling, DDNS, règles firewall automatisées avec Ansible | `WireGuard` `OPNsense` `Ansible` `DDNS` |
-
+| 🖥️ | [**homelab-proxmox**](https://github.com/landry-sossa/homelab-proxmox) | Infrastructure virtualisée complète sur serveur physique — Proxmox, OPNsense, Active Directory, segmentation réseau 3 zones (LAN / DMZ / WAN) | `Proxmox` `OPNsense` `Windows Server` `AD DS` `Ansible` |
+| 🔐 | [**vpn-wireguard-opnsense**](https://github.com/landry-sossa/vpn-wireguard-opnsense) | Accès distant sécurisé au homelab via VPN WireGuard — split tunneling, DDNS, règles firewall automatisées avec Ansible | `WireGuard` `OPNsense` `Ansible` `DDNS` |
 
 </div>
 
@@ -100,7 +58,7 @@ $ cat objectifs.txt
 
 <div align="center">
 
-###  *"La sécurité n'est pas un produit, c'est un processus."*
+### *"La sécurité n'est pas un produit, c'est un processus."*
 *— Bruce Schneier*
 
 <br/>
