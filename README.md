@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER ANIMÉ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0f2027,70:1a3a4a,100:2c5364&height=220&section=header&text=Landry%20SOSSA&fontSize=65&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Sysadmin%20%E2%80%A2%20Infrastructure%20systeme%20%E2%80%A2%20S%C3%A9curit%C3%A9&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0f2027,70:1a3a4a,100:2c5364&height=220&section=header&text=Landry%20SOSSA&fontSize=65&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Infrastructure%20systeme%20%E2%80%A2%20S%C3%A9curit%C3%A9&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -49,8 +49,8 @@ $ cat objectifs.txt
 
 | | Projet | Ce que j'explore | Stack |
 |:-:|--------|-----------------|-------|
-| 🖥️ | [**homelab-proxmox**](https://github.com/landry-sossa/homelab-proxmox) | Infrastructure virtualisée complète sur serveur physique — Proxmox, OPNsense, Active Directory, segmentation réseau 3 zones (LAN / DMZ / WAN) | `Proxmox` `OPNsense` `Windows Server` `AD DS` `Ansible` |
-| 🔐 | [**vpn-wireguard-opnsense**](https://github.com/landry-sossa/vpn-wireguard-opnsense) | Accès distant sécurisé au homelab via VPN WireGuard — split tunneling, DDNS, règles firewall automatisées avec Ansible | `WireGuard` `OPNsense` `Ansible` `DDNS` |
+|  | [**homelab-proxmox**](https://github.com/landry-sossa/homelab-proxmox) | Infrastructure virtualisée complète sur serveur physique — Proxmox, OPNsense, Active Directory, segmentation réseau 3 zones (LAN / DMZ / WAN) | `Proxmox` `OPNsense` `Windows Server` `AD DS` `Ansible` |
+|  | [**vpn-wireguard-opnsense**](https://github.com/landry-sossa/vpn-wireguard-opnsense) | Accès distant sécurisé au homelab via VPN WireGuard — split tunneling, DDNS, règles firewall automatisées avec Ansible | `WireGuard` `OPNsense` `Ansible` `DDNS` |
 
 </div>
 
