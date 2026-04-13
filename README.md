@@ -51,6 +51,7 @@ $ cat objectifs.txt
 |:-:|--------|-----------------|-------|
 |  | [**homelab-proxmox**](https://github.com/landry-sossa/homelab-proxmox) | Infrastructure virtualisée complète sur serveur physique — Proxmox, OPNsense, Active Directory, segmentation réseau 3 zones (LAN / DMZ / WAN) | `Proxmox` `OPNsense` `Windows Server` `AD DS` `Ansible` |
 |  | [**vpn-wireguard-opnsense**](https://github.com/landry-sossa/vpn-wireguard-opnsense) | Accès distant sécurisé au homelab via VPN WireGuard — split tunneling, DDNS, règles firewall automatisées avec Ansible | `WireGuard` `OPNsense` `Ansible` `DDNS` |
+|  | [**Déployement_automatique**](https://github.com/landry-sossa/vm-auto-deploy/) | Automatisation complète du déploiement d'une VM Debian avec durcissement ANSSI BP-028 via GitHub Actions. | `Proxmox` `Github_Action` `Ansible` `Packer` `Terraform` |
 
 </div>
 
